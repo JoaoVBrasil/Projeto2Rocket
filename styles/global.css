@@ -26,11 +26,11 @@
 body{
     font: var(--text);
     color: var(--text-color-secondary);
-    background-color: var(--background-color);             
+    background-color: var(--background-color);              
 
 }
 
-/* cor inherit (herdada) do "pai" dele (no caso o body ali) */
+/* cor inherit (herdada) do "pai" dele (no caso o body) */
 a {
     text-decoration: none;
     color: inherit;
